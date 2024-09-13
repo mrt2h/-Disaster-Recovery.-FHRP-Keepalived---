@@ -1,1 +1,11 @@
-# -Disaster-Recovery.-FHRP-Keepalived---
+# Домашнее задание к занятию «Disaster Recovery. FHRP и Keepalived» - Хасаншин Марат.
+
+### Решение 1
+[Cхемa](hsrp_advanced.pkt) в формате pkt.
+
+Cкриншоты настройки маршрутизаторов:
+
+![Скриншот 1](1_1.png)
+
+
+![Скриншот 2](1_2.png)
